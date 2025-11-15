@@ -34,3 +34,5 @@ file.
 
 ![WhatsApp Image 2025-10-23 at 20 52 44_1a5dc9a8](https://github.com/user-attachments/assets/f77f4b31-4e85-4ffd-8b59-3b761178c8e7)
 
+## Result:
+ Hence to create and monitor a Bus Topology and effective data transmission using NS2 Software is verified.
